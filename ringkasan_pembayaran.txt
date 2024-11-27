@@ -1,0 +1,11 @@
+=================================
+|	Ringkasan Pembayaran	|
+=================================
+Canon EOS 60D (Body Only)		Rp150000 untuk 3 hari
+Total Harga: Rp150000
+Diskon: 50%
+Total Setelah Diskon: Rp75000
+Biaya Antar Jemput: Rp0
+Total Pembayaran: Rp75000
+DP 50%: Rp37500
+Metode Pembayaran: Cash
